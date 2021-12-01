@@ -1,0 +1,10 @@
+{
+  "pages": {
+    "pageHome": "Home Page",
+    "pageWin": "Win Page",
+    "pageLose": "Lose Page"
+  },
+  "messages": {
+    "msg001": "Amazing things will come soon!"
+  }
+}
